@@ -46,6 +46,8 @@ module.exports = {
         tsx: 'never'
       }
     ],
-    'import/no-extraneous-dependencies': ['error', { devDependencies: true }]
+    'import/no-extraneous-dependencies': ['error', { devDependencies: true }],
+    'no-param-reassign': ['error', { props: false }],
+    'import/prefer-default-export': 'off'
   }
 };
