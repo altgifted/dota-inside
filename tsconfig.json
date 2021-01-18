@@ -10,6 +10,7 @@
     "paths": {
       "*": ["*"]
     },
+    "resolveJsonModule": true,
     "types": ["node"],
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
