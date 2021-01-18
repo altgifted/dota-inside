@@ -35,7 +35,7 @@ module.exports = {
     }
   },
   devServer: {
-    host: 'fsd-dev.com',
+    host: 'dota-inside.com',
     port: 3000,
     compress: true,
     open: true,
